@@ -44,7 +44,7 @@ function cleanKitchen(){
 function takeOutTrash(){
     return new Promise((resolve, reject) => {
         setTimeout(() => {
-            
+
             const trashTakenOut = true;
 
             if(trashTakenOut){
